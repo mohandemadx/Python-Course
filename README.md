@@ -1,7 +1,7 @@
-# 🎓 Python Creators Lab  
+# Python Creators Lab  
 **Code → Screen → Real World**
 
-## 📌 Course Overview
+## Course Overview
 - **Duration:** 10 Weeks  
 - **Sessions:** 2 per week (20 total)  
 - **Age Group:** 14–16  
@@ -9,14 +9,14 @@
 
 ---
 
-## 🧠 Teaching Philosophy
+## Teaching Philosophy
 - Learn by building  
 - Every lesson creates something visible  
 - Encourage creativity and experimentation  
 
 ---
 
-# 📚 Curriculum
+# Curriculum
 
 ## 🟢 Week 1: Getting Started
 
@@ -86,7 +86,7 @@ Quiz Game
 
 ---
 
-## 🎨 Week 4: Turtle Graphics
+## Week 4: Turtle Graphics
 
 ### Lesson 7: Drawing Basics
 **Project:**  
@@ -100,7 +100,7 @@ Pattern generator
 
 ---
 
-## 🎨 Week 5: Functions & Art
+## Week 5: Functions & Art
 
 ### Lesson 9: Functions
 **Project:**  
@@ -108,13 +108,13 @@ Draw skyline
 
 ---
 
-### Lesson 10: Final Art Project 🎨
+### Lesson 10: Final Art Project 
 **Project:**  
 Full drawing scene  
 
 ---
 
-## 🖥️ Week 6: GUI Apps
+## Week 6: GUI Apps
 
 ### Lesson 11: First GUI
 **Project:**  
@@ -128,7 +128,7 @@ Simple calculator
 
 ---
 
-## 🤖 Week 7: Physical Computing
+## Week 7: Physical Computing
 
 ### Lesson 13: Hardware Intro
 **Activity:**  
@@ -136,13 +136,13 @@ Build LED circuit
 
 ---
 
-### Lesson 14: Python + Hardware 💡
+### Lesson 14: Python + Hardware 
 **Project:**  
 Control LED with Python  
 
 ---
 
-## 🤖 Week 8: Smart Systems
+## Week 8: Smart Systems
 
 ### Lesson 15: Inputs
 **Project:**  
@@ -157,7 +157,7 @@ Button-controlled LED
 
 ---
 
-## 🎮 Week 9: Game Development
+## Week 9: Game Development
 
 ### Lesson 17: Pygame Basics
 **Project:**  
