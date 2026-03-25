@@ -1,202 +1,202 @@
-\documentclass[11pt]{article}
-\usepackage[margin=1in]{geometry}
-\usepackage{titlesec}
-\usepackage{enumitem}
-\usepackage{xcolor}
+# 🎓 Python Creators Lab  
+**Code → Screen → Real World**
 
-\title{\textbf{Python Creators Lab}\\
-\large Code $\rightarrow$ Screen $\rightarrow$ Real World}
-\author{}
-\date{}
+## 📌 Course Overview
+- **Duration:** 10 Weeks  
+- **Sessions:** 2 per week (20 total)  
+- **Age Group:** 14–16  
+- **Goal:** Learn Python through games, visuals, and real-world projects  
 
-\begin{document}
+---
 
-\maketitle
+## 🧠 Teaching Philosophy
+- Learn by building  
+- Every lesson creates something visible  
+- Encourage creativity and experimentation  
 
-\section*{Course Overview}
-\begin{itemize}
-\item Duration: 10 Weeks
-\item Frequency: 2 Lessons per Week (20 Lessons Total)
-\item Target Age: 14--16 Years
-\item Goal: Learn Python through games, visuals, and real-world projects
-\end{itemize}
+---
 
-\section*{Teaching Philosophy}
-\begin{itemize}
-\item Learn by building
-\item Every lesson produces something visible or interactive
-\item Focus on creativity and experimentation
-\end{itemize}
+# 📚 Curriculum
 
-\section*{Curriculum Breakdown}
+## 🟢 Week 1: Getting Started
 
-\section*{Week 1: Getting Started}
+### Lesson 1: What is Coding?
+**Concepts:**
+- Python basics  
+- `print()`  
 
-\subsection*{Lesson 1: What is Coding?}
-\textbf{Concepts:}
-\begin{itemize}
-\item Python basics
-\item print()
-\end{itemize}
+**Mini Project:**  
+Digital name card  
 
-\textbf{Activities:}
-\begin{itemize}
-\item Print name in creative formats
-\end{itemize}
+**Outcome:**  
+First working program  
 
-\textbf{Mini Project:}
-Digital name card
+---
 
-\textbf{Outcome:}
-First working program
+### Lesson 2: Variables & Input
+**Concepts:**
+- Variables  
+- `input()`  
 
-\textbf{Homework:}
-Print 5 fun facts
+**Mini Project:**  
+About Me Generator  
 
-\subsection*{Lesson 2: Variables \& Input}
-\textbf{Concepts:}
-\begin{itemize}
-\item Variables
-\item input()
-\end{itemize}
+**Outcome:**  
+Interactive program  
 
-\textbf{Mini Project:}
-About Me Generator
+---
 
-\textbf{Outcome:}
-Interactive program
+## 🟢 Week 2: Logic
 
-\section*{Week 2: Logic}
+### Lesson 3: If Statements
+**Concepts:**
+- `if`, `elif`, `else`  
 
-\subsection*{Lesson 3: If Statements}
-\textbf{Concepts:}
-\begin{itemize}
-\item if, elif, else
-\end{itemize}
+**Mini Project:**  
+Password checker  
 
-\textbf{Mini Project:}
-Password checker
+---
 
-\subsection*{Lesson 4: Game Project}
-\textbf{Project:}
-Rock-Paper-Scissors
+### Lesson 4: Game Project 🎮
+**Project:**  
+Rock-Paper-Scissors  
 
-\textbf{Outcome:}
-Playable game
+**Outcome:**  
+Playable game  
 
-\section*{Week 3: Loops}
+---
 
-\subsection*{Lesson 5: Loops}
-\textbf{Concepts:}
-\begin{itemize}
-\item while loops
-\end{itemize}
+## 🟢 Week 3: Loops
 
-\textbf{Project:}
-Guess the Number
+### Lesson 5: Loops
+**Concepts:**
+- `while` loops  
 
-\subsection*{Lesson 6: Lists}
-\textbf{Concepts:}
-\begin{itemize}
-\item Lists
-\end{itemize}
+**Project:**  
+Guess the Number  
 
-\textbf{Project:}
-Quiz Game
+---
 
-\section*{Week 4: Turtle Graphics}
+### Lesson 6: Lists
+**Concepts:**
+- Lists  
 
-\subsection*{Lesson 7: Drawing Basics}
-\textbf{Project:}
-Draw shapes
+**Project:**  
+Quiz Game  
 
-\subsection*{Lesson 8: Creative Drawing}
-\textbf{Project:}
-Pattern generator
+---
 
-\section*{Week 5: Functions \& Art}
+## 🎨 Week 4: Turtle Graphics
 
-\subsection*{Lesson 9: Functions}
-\textbf{Project:}
-Draw skyline
+### Lesson 7: Drawing Basics
+**Project:**  
+Draw shapes  
 
-\subsection*{Lesson 10: Final Art Project}
-\textbf{Project:}
-Full drawing scene
+---
 
-\section*{Week 6: GUI Apps}
+### Lesson 8: Creative Drawing
+**Project:**  
+Pattern generator  
 
-\subsection*{Lesson 11: First GUI}
-\textbf{Project:}
-Button app
+---
 
-\subsection*{Lesson 12: Calculator}
-\textbf{Project:}
-Simple calculator
+## 🎨 Week 5: Functions & Art
 
-\section*{Week 7: Physical Computing}
+### Lesson 9: Functions
+**Project:**  
+Draw skyline  
 
-\subsection*{Lesson 13: Hardware Intro}
-\textbf{Activities:}
-\begin{itemize}
-\item LED circuit
-\end{itemize}
+---
 
-\subsection*{Lesson 14: Python + Hardware}
-\textbf{Project:}
-Control LED
+### Lesson 10: Final Art Project 🎨
+**Project:**  
+Full drawing scene  
 
-\section*{Week 8: Smart Systems}
+---
 
-\subsection*{Lesson 15: Inputs}
-\textbf{Project:}
-Button-controlled LED
+## 🖥️ Week 6: GUI Apps
 
-\subsection*{Lesson 16: Smart Project}
-\textbf{Examples:}
-\begin{itemize}
-\item Smart light
-\item Reaction game
-\end{itemize}
+### Lesson 11: First GUI
+**Project:**  
+Button app  
 
-\section*{Week 9: Game Development}
+---
 
-\subsection*{Lesson 17: Pygame Basics}
-\textbf{Project:}
-Move character
+### Lesson 12: Calculator
+**Project:**  
+Simple calculator  
 
-\subsection*{Lesson 18: Game Project}
-\textbf{Project:}
-Dodge game
+---
 
-\section*{Week 10: Final Project}
+## 🤖 Week 7: Physical Computing
 
-\subsection*{Lesson 19: Planning}
-Students choose:
-\begin{itemize}
-\item Game
-\item Smart device
-\item Interactive art
-\end{itemize}
+### Lesson 13: Hardware Intro
+**Activity:**  
+Build LED circuit  
 
-\subsection*{Lesson 20: Demo Day}
-\textbf{Outcome:}
-Presentation and showcase
+---
 
-\section*{Assessment}
-\begin{itemize}
-\item Participation
-\item Creativity
-\item Completed projects
-\end{itemize}
+### Lesson 14: Python + Hardware 💡
+**Project:**  
+Control LED with Python  
 
-\section*{Final Outcomes}
-Students will create:
-\begin{itemize}
-\item Games
-\item Visual art
-\item Hardware project
-\item Final project
-\end{itemize}
+---
 
-\end{document}
+## 🤖 Week 8: Smart Systems
+
+### Lesson 15: Inputs
+**Project:**  
+Button-controlled LED  
+
+---
+
+### Lesson 16: Smart Project
+**Ideas:**
+- Smart light  
+- Reaction game  
+
+---
+
+## 🎮 Week 9: Game Development
+
+### Lesson 17: Pygame Basics
+**Project:**  
+Move a character  
+
+---
+
+### Lesson 18: Game Project
+**Project:**  
+Dodge game  
+
+---
+
+## 🏁 Week 10: Final Project
+
+### Lesson 19: Planning
+Choose one:
+- 🎮 Game  
+- 🤖 Smart device  
+- 🎨 Interactive art  
+
+---
+
+### Lesson 20: Demo Day 🎉
+**Outcome:**  
+Project presentation  
+
+---
+
+# 🧪 Assessment
+- Participation  
+- Creativity  
+- Project completion  
+
+---
+
+# 🎁 Final Outcomes
+طلاب will build:
+- 🎮 Games  
+- 🎨 Visual art  
+- 💡 Hardware project  
+- 🚀 Final project  
