@@ -86,7 +86,7 @@ Quiz Game
 
 ---
 
-## Week 4: Turtle Graphics
+## 🟢 Week 4: Turtle Graphics
 
 ### Lesson 7: Drawing Basics
 **Project:**  
@@ -100,7 +100,7 @@ Pattern generator
 
 ---
 
-## Week 5: Functions & Art
+## 🟢 Week 5: Functions & Art
 
 ### Lesson 9: Functions
 **Project:**  
@@ -114,7 +114,7 @@ Full drawing scene
 
 ---
 
-## Week 6: GUI Apps
+## 🟢 Week 6: GUI Apps
 
 ### Lesson 11: First GUI
 **Project:**  
@@ -128,7 +128,7 @@ Simple calculator
 
 ---
 
-## Week 7: Physical Computing
+## 🟢 Week 7: Physical Computing
 
 ### Lesson 13: Hardware Intro
 **Activity:**  
@@ -142,7 +142,7 @@ Control LED with Python
 
 ---
 
-## Week 8: Smart Systems
+## 🟢 Week 8: Smart Systems
 
 ### Lesson 15: Inputs
 **Project:**  
@@ -157,7 +157,7 @@ Button-controlled LED
 
 ---
 
-## Week 9: Game Development
+## 🟢 Week 9: Game Development
 
 ### Lesson 17: Pygame Basics
 **Project:**  
@@ -193,10 +193,3 @@ Project presentation
 - Project completion  
 
 ---
-
-# 🎁 Final Outcomes
-طلاب will build:
-- 🎮 Games  
-- 🎨 Visual art  
-- 💡 Hardware project  
-- 🚀 Final project  
